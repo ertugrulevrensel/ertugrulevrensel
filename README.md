@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi, I'm Ertuğrul<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h3 align="center">Front-End Developer</h3>
+<div display="flex">
+<a href="https://www.linkedin.com/in/ertugrulevrensel/">
+ <img alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="mailto:ertugrulevrensel@gmail.com">
+<img alt="Gmail" width="30px" src="https://raw.githubusercontent.com/jzsfkzm/color-icons-for-gmail/master/resources/Gmail-Icon.png" />
+</a>
+</div>
